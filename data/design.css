@@ -1,0 +1,17 @@
+.name {
+    text-align: center;
+    color: blue;
+    border: 3px solid black;
+    background-color: bisque;
+    margin: 20px;
+}
+.name2{
+    margin: 20px;
+    text-align: center;
+    color: blue;
+    border: 3px solid black;
+    background-color: bisque;
+}
+hr{
+    border-top: 2px solid blue;
+}
